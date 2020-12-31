@@ -1,4 +1,4 @@
-# Assignment2
+# Sqlite3 and Code Quality Project
 
 #### Style
 1. Comments
