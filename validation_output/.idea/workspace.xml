@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a295fb4-68b7-453f-985a-2e21d2942fe2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twitch.py" beforeDir="false" afterPath="$PROJECT_DIR$/../twitch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../validate.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../validate.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gts_league.txt" beforeDir="false" afterPath="$PROJECT_DIR$/gts_league.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gts_owl.txt" beforeDir="false" afterPath="$PROJECT_DIR$/gts_owl.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/query_moobot_league.txt" beforeDir="false" afterPath="$PROJECT_DIR$/query_moobot_league.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/query_moobot_owl.txt" beforeDir="false" afterPath="$PROJECT_DIR$/query_moobot_owl.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/query_offset_league.txt" beforeDir="false" afterPath="$PROJECT_DIR$/query_offset_league.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/query_offset_owl.txt" beforeDir="false" afterPath="$PROJECT_DIR$/query_offset_owl.txt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1TrZ50JAQcBWvsg3JWei7EA54yC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a295fb4-68b7-453f-985a-2e21d2942fe2" name="Default Changelist" comment="" />
+      <created>1574219987771</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574219987771</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
